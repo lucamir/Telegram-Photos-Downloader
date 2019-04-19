@@ -1,5 +1,3 @@
-# //** CLIENT TELEGRAM CHE SCARICA TUTTE LE FOTO DA UNA CONVERSATIONE **//
-
 from telethon import TelegramClient
 import telethon.sync
 from telethon.tl.types import InputMessagesFilterPhotos
