@@ -6,6 +6,7 @@ import socks
 
 api_id = #PUT_YOU_API_ID_HERE
 api_hash = '#PUT_YOUR_API_HASH_CODE_HERE'
+session_name = 'my_session'
 
 def main():
     # download counter
@@ -15,7 +16,7 @@ def main():
     conversation_name = '#PUT_YOUR_CONVERSATION_NAME_HERE'
     
     # creation of a client and start the session with your personal API ID AND HASH CODE
-    client = TelegramClient('my_session', api_id, api_hash)
+    client = TelegramClient(session_name, api_id, api_hash)
 
     # start the client
     client.start()
