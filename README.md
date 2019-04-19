@@ -1,1 +1,1 @@
-# Telegram-Client-Picture-Download
+# Telegram-Client (Photos Download)
