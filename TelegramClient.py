@@ -5,7 +5,7 @@ import asyncio
 import socks
 
 api_id = 3789173321 #REPLACE THE EXAMPLE NUMBER WITH YOUR API ID CODE 
-api_hash = '#PUT_YOUR_API_HASH_CODE_HERE'
+api_hash = '' #PUT_YOUR_API_HASH_CODE_HERE
 session_name = 'my_session' #YOU CAN REPLACE THIS STRING WITH A CUSTOM SESSION NAME
 
 def main():
