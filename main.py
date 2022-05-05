@@ -30,10 +30,10 @@ def input_chat_name(chats):
                     finded = True
                     print(chat_name)
                     break
-            if finded:
-                return chat_name
-            else:
+            if not finded:
                 print("I can't find a chat with that name, try again with another chat")
+            else:
+                return chat_name
 
 
 def main():
