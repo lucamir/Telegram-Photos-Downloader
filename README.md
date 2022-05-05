@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/lucamir/telegram-photos-downloader/badge)](https://www.codefactor.io/repository/github/lucamir/telegram-photos-downloader)
+
 # Telegram Photos Downloader
 A simple implementation of a telegram client (maded with <a href="https://github.com/LonamiWebs/Telethon">Telethon</a>), which allows you to download all the photos from a conversation.
 
