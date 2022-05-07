@@ -26,7 +26,6 @@ def input_chat_name(chats):
             for chat in chats:
                 if chat.name == chat_name:
                     finded = True
-                    print(chat_name)
                     break
             if not finded:
                 print("I can't find a chat with that name, try again with another chat")
