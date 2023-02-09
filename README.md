@@ -14,3 +14,5 @@ python3 main.py
 <br>
 <img src="https://github.com/lucamir/Telegram-Photos-Downloader/blob/master/Example_Questions.png" style="width: 95%; aspect-ration: 1/1;" />
 
+<br><br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4GTFUB)
